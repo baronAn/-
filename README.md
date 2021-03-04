@@ -3,7 +3,7 @@
 For more information, please check Tuya Developer Website.
 
 一、方案标题
-小管家智能喂食
+小管家智能宠物喂食
 二、方案应用场景地点：室内
 功能：1、可手动一键喂食，可设置一次喂食量
       2、可硬件定时投喂宠物饲料
